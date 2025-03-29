@@ -28,7 +28,7 @@ This project integrates **sign language recognition** to enhance accessibility f
 
 ## 📸 Screenshots
 
-*(Add demo images or GIFs here)*  ![image](https://github.com/user-attachments/assets/4a72583f-cbfa-4639-bb9d-68c3022ed2e2)
+  ![image](https://github.com/user-attachments/assets/4a72583f-cbfa-4639-bb9d-68c3022ed2e2)
 
 
 ## 🤝 Contributing
