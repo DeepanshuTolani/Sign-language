@@ -28,12 +28,16 @@ This project integrates **sign language recognition** to enhance accessibility f
 
 ## 📸 Screenshots
 
-  ![image](https://github.com/user-attachments/assets/4a72583f-cbfa-4639-bb9d-68c3022ed2e2)
-
+![Sign Language Detection Android Project](./sign_language_detection_image.jpg)
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
+
+📺 Demonstration
+
+Watch the full demonstration on YouTube:
+👉 Sign Language Recognition System Demo
 
 ## 📬 Contact
 
